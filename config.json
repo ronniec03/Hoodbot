@@ -1,0 +1,13 @@
+{
+  "backend": "llama_cpp",
+  "model_path": "models/NSFW-3B.Q3_K_M.gguf",
+  "avatars": [
+    "assets/avatars/mood1.mp4",
+    "assets/avatars/mood2.mp4",
+    "assets/avatars/mood3.mp4",
+    "assets/avatars/mood4.mp4"
+  ],
+  "voice": "en-US-AriaNeural",
+  "temperature": 0.7,
+  "max_tokens": 512
+}
