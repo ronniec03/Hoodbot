@@ -1,0 +1,11 @@
+{
+  "voice": "en-US-AriaNeural",
+  "rate": "+0%",
+  "volume": "+0%",
+  "backup_voices": [
+    "en-US-JennyNeural",
+    "en-US-SaraNeural",
+    "en-US-AvaNeural"
+  ],
+  "pitch": "+0Hz"
+}
