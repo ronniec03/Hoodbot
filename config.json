@@ -1,6 +1,6 @@
 {
   "backend": "llama_cpp",
-  "model_path": "models/NSFW-3B.Q3_K_M.gguf",
+  "model_path": "models/orca-mini-3b-gguf2-q4_0.gguf",
   "avatars": [
     "assets/avatars/mood1.mp4",
     "assets/avatars/mood2.mp4",

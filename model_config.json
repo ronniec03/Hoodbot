@@ -1,0 +1,5 @@
+{
+    "model_path": "C:\\Users\\Justin\\LocalLLM\\bin\\orca-mini-3b-gguf2-q4_0.gguf",
+    "n_ctx": 512,
+    "n_threads": 6
+}
