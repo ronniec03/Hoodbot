@@ -1,0 +1,8 @@
+{
+  "energy_threshold": 300,
+  "pause_threshold": 1.5,
+  "language": "en-US",
+  "timeout": 10,
+  "phrase_threshold": 0.3,
+  "non_speaking_duration": 0.8
+}
